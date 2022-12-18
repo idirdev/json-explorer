@@ -35,3 +35,4 @@ Ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur.
 
 ### Utilisation
 L'interface est divisée en deux panneaux : un éditeur avec numéros de ligne à gauche, et une arborescence interactive à droite. Utilisez les boutons **Format**, **Minify**, **Sort Keys**, **Copy** et **Download** pour manipuler vos données JSON.
+
